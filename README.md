@@ -1,2 +1,3 @@
 # cv_learning_books
 cv_learning_books
+一些初学者关于深度学习的书籍
